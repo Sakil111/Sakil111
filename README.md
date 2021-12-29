@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Basic-of-python
 - 🌱 I’m currently learning Machine Learning,Deep Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on Any reallife project
+- 🤔 I’m looking for help with Deployment
 - 💬 Ask me about Machine Learning, Deep Learning
 - 📫 How to reach me: sakilmahmud05@gmail.com
 - 😄 Pronouns: joke
